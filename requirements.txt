@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+pytesseract
+gradio
+numpy
+psycopg2-binary
+torch
